@@ -1,4 +1,4 @@
-bStats: false
+bStats: true
 Language: "Chinese"
 Debug: false
 SQLAddress: localhost

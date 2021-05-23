@@ -23,6 +23,7 @@ public final class Rice extends PPlugin {
     @Override
     protected void afterInit() {
         getDao().connect();
+        registerStats(11450, null);
     }
 
     public static Dao getDao() {
