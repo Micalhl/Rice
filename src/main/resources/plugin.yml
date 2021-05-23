@@ -1,0 +1,7 @@
+name: Rice
+version: ${project.version}
+main: me.mical.rice.Rice
+api-version: 1.16
+authors: [ Mical ]
+commands:
+  rice:

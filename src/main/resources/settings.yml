@@ -1,0 +1,11 @@
+bStats: false
+Language: "Chinese"
+Debug: false
+SQLAddress: localhost
+SQLPort: 3306
+SQLDatabase: minecraft
+SQLName: rice
+SQLPassword: 123456
+SeedDropChance: 0.3
+Food: 6
+EatMessage: true

@@ -1,0 +1,7 @@
+Plugin:
+  Prefix: "&9&l水稻"
+  INFO: "&a>> &r"
+  WARN: "&e>> &r"
+  ERROR: "&c>> &r"
+Lang:
+  Eat: "香喷喷的米饭! 光盘行动, 从我做起~"
